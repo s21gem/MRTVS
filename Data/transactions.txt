@@ -1,0 +1,8 @@
+Timestamp,Username,From,To,Quantity,TotalCost,Inserted,Returned
+2026-05-22 05:34:41,Musa,Uttara Center,Mirpur 10,2,60.0,100.0,40.0
+2026-05-22 05:45:34,Musa,Uttara North,Sheorapara,3,150.0,170.0,20.0
+2026-05-22 05:59:56,Musa,Pallabi,Sheorapara,2,60.0,60.0,0.0
+2026-05-22 06:06:56,Musa,Pallabi,Mirpur 11,3,60.0,600.0,540.0
+2026-05-22 06:15:52,Musa,Uttara Center,Pallabi,2,40.0,40.0,0.0
+2026-05-22 06:30:33,Musa,Uttara North,Mirpur 11,2,60.0,60.0,0.0
+2026-05-22 07:19:32,Musa,Uttara South,Sheorapara,2,88.0,88.0,0.0

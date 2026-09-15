@@ -1,0 +1,17 @@
+***********************************
+       METRO RAIL TRANSIT SYSTEM    
+***********************************
+
+Passenger         : Musa
+From              : Pallabi
+To                : Sheorapara
+Number of Tickets : 2
+Total Cost        : 60.0 BDT
+Amount Inserted   : 60.0 BDT
+Returned Amount   : 0.0 BDT
+
+Date and Time: 2026-05-22 05:59:56
+
+***********************************
+    THANK YOU FOR RIDING METRO!    
+***********************************

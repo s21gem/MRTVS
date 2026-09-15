@@ -1,0 +1,17 @@
+***********************************
+       METRO RAIL TRANSIT SYSTEM    
+***********************************
+
+Passenger         : Musa
+From              : Uttara Center
+To                : Mirpur 10
+Number of Tickets : 2
+Total Cost        : 60.0 BDT
+Amount Inserted   : 100.0 BDT
+Returned Amount   : 40.0 BDT
+
+Date and Time: 2026-05-22 05:34:41
+
+***********************************
+    THANK YOU FOR RIDING METRO!    
+***********************************

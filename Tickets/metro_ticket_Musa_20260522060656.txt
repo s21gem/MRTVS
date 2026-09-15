@@ -1,0 +1,17 @@
+***********************************
+       METRO RAIL TRANSIT SYSTEM    
+***********************************
+
+Passenger         : Musa
+From              : Pallabi
+To                : Mirpur 11
+Number of Tickets : 3
+Total Cost        : 60.0 BDT
+Amount Inserted   : 600.0 BDT
+Returned Amount   : 540.0 BDT
+
+Date and Time: 2026-05-22 06:06:56
+
+***********************************
+    THANK YOU FOR RIDING METRO!    
+***********************************

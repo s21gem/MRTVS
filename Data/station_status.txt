@@ -1,0 +1,9 @@
+Uttara North,Operational
+Uttara Center,Operational
+Uttara South,Operational
+Pallabi,Operational
+Mirpur 11,Operational
+Mirpur 10,Operational
+Kazipara,Operational
+Sheorapara,Operational
+Agargaon,Operational
